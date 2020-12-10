@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: // The array numbers already exists. Write only exchange actions here.
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7865#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 08 Dec 2020 12:53:49 UTC
+record: -1

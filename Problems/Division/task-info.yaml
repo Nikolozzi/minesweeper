@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import java.util.*
+
+    // write your code here
+
+    /* Do not change code below */
+    fun main() {
+        val scanner = Scanner(System.`in`)
+        val a = scanner.nextLong()
+        val b = scanner.nextLong()
+        println(divide(a, b))
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4588#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 09 Dec 2020 10:14:04 UTC
+record: -1

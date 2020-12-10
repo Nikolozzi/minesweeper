@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Minesweeper/task" />
+            <option value="$PROJECT_DIR$/Problems/Application as a class" />
+            <option value="$PROJECT_DIR$/Problems/Area printer" />
+            <option value="$PROJECT_DIR$/Problems/Bank account" />
+            <option value="$PROJECT_DIR$/Problems/Barista problem" />
+            <option value="$PROJECT_DIR$/Problems/Between two numbers" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Player" />
+            <option value="$PROJECT_DIR$/Problems/Calculate volume" />
+            <option value="$PROJECT_DIR$/Problems/Car speed" />
+            <option value="$PROJECT_DIR$/Problems/Cell" />
+            <option value="$PROJECT_DIR$/Problems/Check the order" />
+            <option value="$PROJECT_DIR$/Problems/City population" />
+            <option value="$PROJECT_DIR$/Problems/Comment some lines" />
+            <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Problems/Comparing sums" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Composition" />
+            <option value="$PROJECT_DIR$/Problems/Constructor property" />
+            <option value="$PROJECT_DIR$/Problems/Currencies" />
+            <option value="$PROJECT_DIR$/Problems/Danger level" />
+            <option value="$PROJECT_DIR$/Problems/Delegation" />
+            <option value="$PROJECT_DIR$/Problems/Digits or not" />
+            <option value="$PROJECT_DIR$/Problems/Division" />
+            <option value="$PROJECT_DIR$/Problems/Fabric manufacture" />
+            <option value="$PROJECT_DIR$/Problems/Find the max" />
+            <option value="$PROJECT_DIR$/Problems/Fix an error" />
+            <option value="$PROJECT_DIR$/Problems/Fix me" />
+            <option value="$PROJECT_DIR$/Problems/Frozen desserts" />
+            <option value="$PROJECT_DIR$/Problems/Grades" />
+            <option value="$PROJECT_DIR$/Problems/Gratuity" />
+            <option value="$PROJECT_DIR$/Problems/Groundhogs at the party" />
+            <option value="$PROJECT_DIR$/Problems/Help the Lord Commander" />
+            <option value="$PROJECT_DIR$/Problems/How many nuts will be left after division" />
+            <option value="$PROJECT_DIR$/Problems/Individual taxes" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Problems/Interval" />
+            <option value="$PROJECT_DIR$/Problems/Is between" />
+            <option value="$PROJECT_DIR$/Problems/Job" />
+            <option value="$PROJECT_DIR$/Problems/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Problems/Manager" />
+            <option value="$PROJECT_DIR$/Problems/Maximum element divisible by 4" />
+            <option value="$PROJECT_DIR$/Problems/N-th symbol" />
+            <option value="$PROJECT_DIR$/Problems/National assembly" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Problems/Perimeter" />
+            <option value="$PROJECT_DIR$/Problems/Pets" />
+            <option value="$PROJECT_DIR$/Problems/Playing with time" />
+            <option value="$PROJECT_DIR$/Problems/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Problems/Print two numbers on the same line" />
+            <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Problems/Rickrolling" />
+            <option value="$PROJECT_DIR$/Problems/Right Rotation" />
+            <option value="$PROJECT_DIR$/Problems/Right equation" />
+            <option value="$PROJECT_DIR$/Problems/Sequence" />
+            <option value="$PROJECT_DIR$/Problems/Summation" />
+            <option value="$PROJECT_DIR$/Problems/Swap elements" />
+            <option value="$PROJECT_DIR$/Problems/The information about a person" />
+            <option value="$PROJECT_DIR$/Problems/The minimum value of N numbers" />
+            <option value="$PROJECT_DIR$/Problems/The number of tens" />
+            <option value="$PROJECT_DIR$/Problems/The rainbow order" />
+            <option value="$PROJECT_DIR$/Problems/The sum of digits" />
+            <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/URL" />
+            <option value="$PROJECT_DIR$/Problems/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Problems/Weather comparison" />
+            <option value="$PROJECT_DIR$/Problems/Within both ranges" />
+            <option value="$PROJECT_DIR$/Problems/Yet another array" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

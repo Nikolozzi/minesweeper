@@ -1,0 +1,1 @@
+println(backFromTheWall.size == beyondTheWall.size)
